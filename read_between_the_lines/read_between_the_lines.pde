@@ -15,7 +15,7 @@ void setup() {
     line(counter, margin, counter, height - margin);
   }
   
-  save("nft.png");
+  //save("nft.png");
 }
 
 void draw() { 
